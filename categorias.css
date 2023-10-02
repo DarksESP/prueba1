@@ -1,6 +1,7 @@
 /* Estilos para la página de categorías */
 ul {
     list-style-type: none;
+
 }
 
 li {
@@ -8,10 +9,14 @@ li {
 }
 
 a {
-    color: #007bff;
+    color: #ff4000;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
