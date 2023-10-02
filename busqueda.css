@@ -5,7 +5,7 @@ ul {
 
 li {
     margin-bottom: 25px;
-    color: #333;
+    color: #e61414;
 }
 
 a {
@@ -18,8 +18,8 @@ a:hover {
 }
 
 p  {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(205, 205, 210);
 text-align: center;
 }
 
