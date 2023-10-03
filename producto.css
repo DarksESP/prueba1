@@ -1,6 +1,6 @@
 /* Estilos para la página de producto */
 body {
-    font-family: Arial, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: #f0f0f0;
 }
 
@@ -13,9 +13,9 @@ p {
 }
 
 button {
-    background-color: #007bff;
-    color: #fff;
-    padding: 10px 20px;
+    background-color: #6d7783;
+    color: #e20e0e;
+    padding: 50px 20px;
     border: none;
     cursor: pointer;
 }
