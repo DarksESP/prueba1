@@ -4,7 +4,8 @@ ul {
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 25px;
+    color: #e61414;
 }
 
 a {
@@ -15,3 +16,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+p  {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(205, 205, 210);
+text-align: center;
+}
+
